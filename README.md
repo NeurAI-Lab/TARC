@@ -1,5 +1,5 @@
 # Task Agnostic Representation Consolidation: A Self-supervised based Continual Learning Approach 
-Official Repository for  "Task Agnostic Representation Consolidation: A Self-supervised based Continual Learning Approach"
+Official Repository for for CoLLAs 2022 paper "Task Agnostic Representation Consolidation: A Self-supervised based Continual Learning Approach"
 
 This repo is built on top of the [Mammoth](https://github.com/aimagelab/mammoth) continual learning framework
 
