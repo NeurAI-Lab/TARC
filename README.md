@@ -53,3 +53,19 @@ This repo is built on top of the [Mammoth](https://github.com/aimagelab/mammoth)
 
 If you find the code useful in your research, please consider citing our paper:
 
+
+@InProceedings{pmlr-v199-bhat22a,
+  title = 	 {Task Agnostic Representation Consolidation: a Self-supervised based Continual Learning Approach},
+  author =       {Bhat, Prashant Shivaram and Zonooz, Bahram and Arani, Elahe},
+  booktitle = 	 {Proceedings of The 1st Conference on Lifelong Learning Agents},
+  pages = 	 {390--405},
+  year = 	 {2022},
+  editor = 	 {Chandar, Sarath and Pascanu, Razvan and Precup, Doina},
+  volume = 	 {199},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {22--24 Aug},
+  publisher =    {PMLR},
+  pdf = 	 {https://proceedings.mlr.press/v199/bhat22a/bhat22a.pdf},
+  url = 	 {https://proceedings.mlr.press/v199/bhat22a.html},
+}
+
